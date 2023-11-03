@@ -6,7 +6,7 @@ import user from './jsons/user';
 import data from './jsons/data';
 import friends from './jsons/friends';
 import transactions from './jsons/transactions';
-
+import './App.css'
 export const App = () => {
   return (
     <div className="container">
