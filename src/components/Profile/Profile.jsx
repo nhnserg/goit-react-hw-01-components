@@ -29,6 +29,6 @@ const Profile = ({ username, tag, location, avatar, stats }) => {
             </ul>
         </div>
     );
-};
+}; 
 
 export default Profile;
